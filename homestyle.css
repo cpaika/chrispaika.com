@@ -1,0 +1,54 @@
+body
+{
+    color: #FFF;
+    font-family: "Roboto", Arial, sans-serif;
+    margin 20% 0 0 3%;
+}
+img {
+  height: 48px;
+  width: 48px;
+  border: none;
+}
+h1
+{
+    font-size: 3.5em;
+    font-weight: bold;
+    margin: 0;
+}
+h2
+{
+    font-size: 1.5em;
+    font-weight:normal;
+    margin: 0;
+}
+
+li 
+{
+  display: inline-block;
+  padding-top: 30px;
+  vertical-align: top;
+  width: 50px;
+  *display: inline; zoom: 1;
+}
+
+.hidden 
+{
+  display: none;
+  height: 0;
+}
+
+.caption 
+{
+  font-style: italic;
+  padding: 4px 2px;
+}
+
+ul 
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  white-space: nowrap;
+  *display: inline; zoom: 1;
+}
